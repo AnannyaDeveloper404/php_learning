@@ -31,9 +31,6 @@
 
 
 
-
-
-    
 ?>
 <!-- php files can contain html,css ,js files as well! -->
  <!DOCTYPE html>
