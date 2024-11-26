@@ -16,7 +16,7 @@
  <?php
   $item="pizza";
   $price=5.99;
-//   $total=null;
+  $total=null;
   $quantity=$_POST["quantity"];
 
   $total=$quantity*$price;
