@@ -22,3 +22,19 @@ variable = a reusable container that holds data
 - integer
 - float
 - boolean
+
+### $\_GET = Data is appended to the URL
+
+-         NOT SECURE
+-         char limit
+-         Bookmark is possible w/ values
+-         GET requests can be cached
+-         Better for a search page
+
+## $\_POST = Data is packaged inside the body of the HTTP request
+
+-          MORE SECURE
+-          No data limit
+-          Cannot bookmark
+-          requests are not cached
+-          Better for submitting credentials
